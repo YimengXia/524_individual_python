@@ -1,5 +1,5 @@
-from pycounts import pycounts
-from pycounts.pycounts import count_words
+from pycounts_yimengxia import pycounts_yimengxia
+from pycounts_yimengxia.pycounts_yimengxia import count_words
 from collections import Counter
 
 def test_count_words():
